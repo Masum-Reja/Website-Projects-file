@@ -1,0 +1,22 @@
+li{
+    color: blueviolet;
+}
+
+
+ul li{
+    color: aquamarine;
+    display: inline;
+}
+
+/* ol li{
+    display: inline;
+} */
+
+span{
+    color:red;
+    margin: 10px;
+    border: 1px solid salmon;
+display: inline-block;
+    /* Inline height/top margin/bottom margin not allow */
+}
+

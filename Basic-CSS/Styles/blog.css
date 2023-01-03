@@ -1,0 +1,39 @@
+.header{
+    height: 400px;
+    /* background-image: url('child1.jpg'); */
+    background-image: url(../sunset.jpg); 
+     /* background-image: url(../image/place3.jpg);  */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    color: rgb(236, 168, 168);
+    text-align: center;
+    text-decoration: underline ;
+}
+
+
+ h3,h4{
+    color: brown;
+    text-decoration: wavy underline  black;
+ }
+
+p{
+    color: blue;
+}
+.page-title{
+    font-weight: 1000rem;
+    color: rgb(228, 223, 223);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+}
+
+.blog{
+    background-color: plum;
+    box-shadow: 10px 10px 10px gray;
+    padding: 1%;
+    margin: 5%;
+    border-radius: 2%;
+    border: 5px  double rgb(188, 27, 27) ;
+
+}
